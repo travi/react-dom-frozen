@@ -1,0 +1,29 @@
+{
+  "name": "react-dom-frozen",
+  "version": "1.0.0",
+  "description": "reproduction of the error from stubbing renderToStaticMarkup",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travi/react-dom-frozen.git"
+  },
+  "author": "Matt Travi <npm@travi.org> (https://matt.travi.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/travi/react-dom-frozen/issues"
+  },
+  "homepage": "https://github.com/travi/react-dom-frozen#readme",
+  "dependencies": {
+    "react": "16.1.0",
+    "react-dom": "16.1.0"
+  },
+  "devDependencies": {
+    "babel-env": "2.4.1",
+    "babel-register": "6.26.0",
+    "mocha": "4.0.1",
+    "sinon": "4.1.2"
+  }
+}
