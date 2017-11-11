@@ -21,7 +21,7 @@
     "react-dom": "16.1.0"
   },
   "devDependencies": {
-    "babel-env": "2.4.1",
+    "babel-preset-env": "1.6.1",
     "babel-register": "6.26.0",
     "mocha": "4.0.1",
     "sinon": "4.1.2"
